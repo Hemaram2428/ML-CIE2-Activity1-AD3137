@@ -59,7 +59,6 @@ The following activities were performed:
 * `titanic.csv` – Original dataset
 * `Activity_1_Dataset_Preparation.ipynb` – Completed Python notebook
 * `titanic_prepared.csv` – Final prepared dataset
-* `Activity_1_Report.pdf` – Project report (if included)
 
 ### 8. Conclusion
 
